@@ -1,0 +1,92 @@
+[
+  {
+    "titulo": "Interstellar",
+    "tipo": "pelicula",
+    "duracion": 169,
+    "fechaEstreno": "2014-11-05T00:00:00Z",
+    "generos": ["Ciencia ficción", "Drama"],
+    "actores": ["Matthew McConaughey", "Anne Hathaway"],
+    "sinopsis": "Un grupo de exploradores viaja a través de un agujero de gusano en el espacio.",
+    "enlaceTrailer": "https://youtube.com/interstellar_trailer",
+    "redesSociales": [
+      "https://twitter.com/interstellar",
+      "https://instagram.com/interstellar"
+    ],
+    "lugarRodaje": { "latitude": 34.0522, "longitude": -118.2437 },
+    "estado": "vista",
+    "colorRepresentativo": "azul",
+    "nombreImagen": "interstellar_poster"
+  },
+  {
+    "titulo": "Inception",
+    "tipo": "pelicula",
+    "duracion": 148,
+    "fechaEstreno": "2010-07-16T00:00:00Z",
+    "generos": ["Acción", "Suspense"],
+    "actores": ["Leonardo DiCaprio", "Joseph Gordon-Levitt"],
+    "sinopsis": "Un ladrón que roba secretos a través de los sueños recibe la tarea de plantar una idea.",
+    "enlaceTrailer": "https://youtube.com/inception_trailer",
+    "redesSociales": [
+      "https://twitter.com/inception",
+      "https://instagram.com/inception"
+    ],
+    "lugarRodaje": { "latitude": 51.5074, "longitude": -0.1278 },
+    "estado": "pendiente",
+    "colorRepresentativo": "rojo",
+    "nombreImagen": "inception_poster"
+  },
+  {
+    "titulo": "Avatar",
+    "tipo": "pelicula",
+    "duracion": 162,
+    "fechaEstreno": "2009-12-18T00:00:00Z",
+    "generos": ["Acción", "Aventura"],
+    "actores": ["Sam Worthington", "Zoe Saldana"],
+    "sinopsis": "Un exmarine parapléjico se involucra en un conflicto en Pandora.",
+    "enlaceTrailer": "https://youtube.com/avatar_trailer",
+    "redesSociales": [
+      "https://twitter.com/avatar",
+      "https://instagram.com/avatar"
+    ],
+    "lugarRodaje": { "latitude": -17.7134, "longitude": 178.065 },
+    "estado": "pendiente",
+    "colorRepresentativo": "verde",
+    "nombreImagen": "avatar_poster"
+  },
+  {
+    "titulo": "Breaking Bad",
+    "tipo": "serie",
+    "duracion": 47,
+    "fechaEstreno": "2008-01-20T00:00:00Z",
+    "generos": ["Drama", "Crimen"],
+    "actores": ["Bryan Cranston", "Aaron Paul"],
+    "sinopsis": "Un profesor de química con cáncer fabrica metanfetamina para asegurar el futuro de su familia.",
+    "enlaceTrailer": "https://youtube.com/breakingbad_trailer",
+    "redesSociales": [
+      "https://twitter.com/breakingbad",
+      "https://instagram.com/breakingbad"
+    ],
+    "lugarRodaje": { "latitude": 35.0844, "longitude": -106.6504 },
+    "estado": "vista",
+    "colorRepresentativo": "morado",
+    "nombreImagen": "breakingbad_poster"
+  },
+  {
+    "titulo": "Planeta Tierra II",
+    "tipo": "documental",
+    "duracion": 60,
+    "fechaEstreno": "2016-11-06T00:00:00Z",
+    "generos": ["Naturaleza", "Ciencia"],
+    "actores": ["David Attenborough"],
+    "sinopsis": "Un viaje visual por los ecosistemas del planeta con imágenes espectaculares.",
+    "enlaceTrailer": "https://youtube.com/planetearth2_trailer",
+    "redesSociales": [
+      "https://twitter.com/planetearth",
+      "https://instagram.com/planetearth"
+    ],
+    "lugarRodaje": { "latitude": -1.2921, "longitude": 36.8219 },
+    "estado": "vista",
+    "colorRepresentativo": "amarillo",
+    "nombreImagen": "planeta_poster"
+  }
+]
