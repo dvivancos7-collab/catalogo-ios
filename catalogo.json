@@ -88,5 +88,124 @@
     "estado": "vista",
     "colorRepresentativo": "amarillo",
     "nombreImagen": "planeta_poster"
+  },
+  {
+    "titulo": "The Dark Knight",
+    "tipo": "pelicula",
+    "duracion": 152,
+    "fechaEstreno": "2008-07-18T00:00:00Z",
+    "generos": ["Acción", "Crimen"],
+    "actores": ["Christian Bale", "Heath Ledger"],
+    "sinopsis": "Batman se enfrenta al caos desatado por el Joker en la ciudad de Gotham.",
+    "enlaceTrailer": "https://www.youtube.com/watch?v=EXeTwQWrcwY",
+    "redesSociales": [
+      "https://www.imdb.com/title/tt0468569/"
+    ],
+    "lugarRodaje": { "latitude": 41.8781, "longitude": -87.6298 },
+    "estado": "favorita",
+    "colorRepresentativo": "rojo",
+    "nombreImagen": "darkknight_poster"
+  },
+  {
+    "titulo": "Stranger Things",
+    "tipo": "serie",
+    "duracion": 50,
+    "fechaEstreno": "2016-07-15T00:00:00Z",
+    "generos": ["Ciencia ficción", "Misterio"],
+    "actores": ["Millie Bobby Brown", "Finn Wolfhard"],
+    "sinopsis": "La desaparición de un niño destapa una serie de sucesos sobrenaturales en un pequeño pueblo.",
+    "enlaceTrailer": "https://www.youtube.com/watch?v=b9EkMc79ZSU",
+    "redesSociales": [
+      "https://www.netflix.com/title/80057281"
+    ],
+    "lugarRodaje": { "latitude": 33.748995, "longitude": -84.387982 },
+    "estado": "pendiente",
+    "colorRepresentativo": "azul",
+    "nombreImagen": "strangerthings_poster"
+  },
+  {
+    "titulo": "Chernobyl",
+    "tipo": "serie",
+    "duracion": 60,
+    "fechaEstreno": "2019-05-06T00:00:00Z",
+    "generos": ["Drama", "Histórico"],
+    "actores": ["Jared Harris", "Stellan Skarsgård"],
+    "sinopsis": "Miniserie basada en el desastre nuclear de Chernóbil y sus consecuencias.",
+    "enlaceTrailer": "https://www.youtube.com/watch?v=s9APLXM9Ei8",
+    "redesSociales": [
+      "https://www.hbo.com/chernobyl"
+    ],
+    "lugarRodaje": { "latitude": 54.6872, "longitude": 25.2797 },
+    "estado": "viendo",
+    "colorRepresentativo": "morado",
+    "nombreImagen": "chernobyl_poster"
+  },
+  {
+    "titulo": "Cosmos: Una odisea en el espacio-tiempo",
+    "tipo": "documental",
+    "duracion": 780,
+    "fechaEstreno": "2014-03-09T00:00:00Z",
+    "generos": ["Ciencia", "Documental"],
+    "actores": ["Neil deGrasse Tyson"],
+    "sinopsis": "Serie documental que explora el universo, la historia de la ciencia y nuestro lugar en el cosmos.",
+    "enlaceTrailer": "https://www.youtube.com/watch?v=kBTd9--9VMI",
+    "redesSociales": [
+      "https://www.nationalgeographic.com/tv/cosmos"
+    ],
+    "lugarRodaje": { "latitude": 34.0522, "longitude": -118.2437 },
+    "estado": "pendiente",
+    "colorRepresentativo": "verde",
+    "nombreImagen": "cosmos_poster"
+  },
+  {
+    "titulo": "La La Land",
+    "tipo": "pelicula",
+    "duracion": 128,
+    "fechaEstreno": "2016-12-09T00:00:00Z",
+    "generos": ["Musical", "Romance"],
+    "actores": ["Ryan Gosling", "Emma Stone"],
+    "sinopsis": "Un pianista de jazz y una aspirante a actriz persiguen sus sueños en Los Ángeles.",
+    "enlaceTrailer": "https://www.youtube.com/watch?v=0pdqf4P9MB8",
+    "redesSociales": [
+      "https://www.imdb.com/title/tt3783958/"
+    ],
+    "lugarRodaje": { "latitude": 34.0522, "longitude": -118.2437 },
+    "estado": "vista",
+    "colorRepresentativo": "amarillo",
+    "nombreImagen": "lalaland_poster"
+  },
+  {
+    "titulo": "The Office",
+    "tipo": "serie",
+    "duracion": 22,
+    "fechaEstreno": "2005-03-24T00:00:00Z",
+    "generos": ["Comedia"],
+    "actores": ["Steve Carell", "John Krasinski"],
+    "sinopsis": "Falso documental que sigue el día a día de una oficina de venta de papel en Scranton.",
+    "enlaceTrailer": "https://www.youtube.com/watch?v=tNcDHWpselE",
+    "redesSociales": [
+      "https://www.nbc.com/the-office"
+    ],
+    "lugarRodaje": { "latitude": 41.408969, "longitude": -75.662412 },
+    "estado": "abandonada",
+    "colorRepresentativo": "verde",
+    "nombreImagen": "theoffice_poster"
+  },
+  {
+    "titulo": "Nuestro planeta",
+    "tipo": "documental",
+    "duracion": 50,
+    "fechaEstreno": "2019-04-05T00:00:00Z",
+    "generos": ["Naturaleza", "Documental"],
+    "actores": ["David Attenborough"],
+    "sinopsis": "Documental que muestra la belleza del planeta Tierra y los retos a los que se enfrenta.",
+    "enlaceTrailer": "https://www.youtube.com/watch?v=aETNYyrqNYE",
+    "redesSociales": [
+      "https://www.netflix.com/title/80049832"
+    ],
+    "lugarRodaje": { "latitude": 51.5074, "longitude": -0.1278 },
+    "estado": "pendiente",
+    "colorRepresentativo": "azul",
+    "nombreImagen": "nuestroplaneta_poster"
   }
 ]
